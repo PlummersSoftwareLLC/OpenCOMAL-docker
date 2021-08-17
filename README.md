@@ -1,6 +1,6 @@
 # OpenCOMAL in Docker
 
-This repository contains a Dockerfile with which an Ubuntu image can be built that has FreeBASIC installed. 
+This repository contains a Dockerfile with which an Ubuntu image can be built that has OpenCOMAL installed. 
 It is published on Docker Hub as [primeimages/opencomal](https://hub.docker.com/repository/docker/primeimages/opencomal).
 
 Currently, it is based on:
